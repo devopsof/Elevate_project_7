@@ -11,10 +11,12 @@ Steps:
 Repository Structure:
 .
 ├── screenshots/
-│   ├── dashboard.png
-│   └── cpu.png
+│   ├── dashboard.jpeg
+│   └── memory.jpeg
+|   └── storage.jpeg
 └── README.md
 
 Outcome:
 - Monitored CPU, memory, disk, network, and containers in real time.
 - Dashboard accessible at port 19999.
+
